@@ -13,5 +13,17 @@
   width: 33%;
   height: 300px;
   margin: 10px;
+  border: solid;
   background-color: #fff;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  min-height: 100px;
+  padding: 10px;
+  color: #fff;
+  background-color: #00c7c9;
 }
